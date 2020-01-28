@@ -1,3 +1,3 @@
-function(){
-	console.log("testtesttest");
-}
+<script>
+	document.write("Hello World");
+</script>
